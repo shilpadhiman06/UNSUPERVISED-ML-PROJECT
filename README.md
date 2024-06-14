@@ -90,9 +90,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 For any questions or inquiries, please reach out to me:
 
 - Email:shilpadhiman0612@gmail.com 
-- LinkedIn:linkedin.com/in/shilpa-dhiman-146378228
-- Twitter:@shilpaDhiman19
+- LinkedIn: linkedin.com/in/shilpa-dhiman-146378228
+- Twitter: @shilpaDhiman19
 
 ---
 
-Feel free to modify any sections to better fit your project specifics and personal contact information!
