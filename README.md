@@ -16,9 +16,7 @@ Here's a detailed README file for Netflix TV Shows and Movies Clustering project
 - [Results and Analysis](#results-and-analysis)
 - [Technologies Used](#technologies-used)
 - [Future Work](#future-work)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
